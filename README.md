@@ -1,6 +1,6 @@
 # Gerador De Personagens Aleatorios
 
-Esse projeto gera personagens aléatorios para o sistema Tormenta 20 - Jogo do Ano. Com ele, você pode gerar rapidamente um personagem com classe, raça, origem e algumas caracteristicas, que pode utilizar para PJs ou NPCs
+Esse projeto gera personagens aléatorios para o sistema Tormenta 20 - Jogo do Ano. Com ele, você pode gerar rapidamente um personagem com classe, raça, origem e algumas caracteristicas, que pode utilizar para PJs ou NPCs.
 
 
 ## Funcionalidades
